@@ -1,0 +1,556 @@
+
+{
+    "q1": [
+        {
+          "question": "Felsefe sistemli olarak nerede ortaya çıkmıştır?",
+          "answerOptions": [
+            { "answer": "Antik Yunan", "isCorrect": true  },
+            { "answer": "Mezopotamya" },
+            { "answer": "Çin"},
+            { "answer": "Mısır" }
+          ]
+        },
+        {
+          "question": "Anaksimandrosa göre arkhe nedir?",
+          "answerOptions": [
+            { "answer": "Hava" },
+            { "answer": "Toprak, su, hava, ateş" },
+            { "answer": "Su", "isCorrect": true },
+            { "answer": "Aperion" }
+          ]
+        },
+        {
+          "question": "'Varlık vardır yokluk yoktur' ilkesi hangi filiozofa aittir?",
+          "answerOptions": [
+            { "answer": "Heraklitos" },
+            { "answer": "Parmenides", "isCorrect": true },
+            { "answer": "Hegel" },
+            { "answer": "Protogaras" }
+          ]
+        },
+        {
+          "question": "İslam filozofların tarafından ilk öğretmen olarak isimlendirilen filiozof kimdir?",
+          "answerOptions": [
+            { "answer": "Aristotales", "isCorrect": true },
+            { "answer": "Gazali" },
+            { "answer": "Farabi" },
+            { "answer": "Tymon" }
+          ]
+        },
+        {
+            "question": "Aristotalese göre mutluluk nedir?",
+            "answerOptions": [
+              { "answer": "Ruhun amacıdır", "isCorrect": true },
+              { "answer": "İyi ideasına ulaşmaktır" },
+              { "answer": "Şüphesiz bilgiye ulaşmaktır" },
+              { "answer": "Mutluluk ne?" }
+            ]
+        },
+        {
+            "question": "'Kimse bilerek kötülük yapmaz, insan özü itibari ile iyidir' düşüncesi hangi filiozofa aittir?",
+            "answerOptions": [
+              { "answer": "Spinoza" },
+              { "answer": "Platon" },
+              { "answer": "Descartes"},
+              { "answer": "Sokrates", "isCorrect": true }
+            ]
+        },
+        {
+            "question": "'insan, doğası gereği siyasi bir hayvandır' sözü hangi filiozofa aittir?",
+            "answerOptions": [
+              { "answer": "Aristotales", "isCorrect": true  },
+              { "answer": "Platon" },
+              { "answer": "John Locke"},
+              { "answer": "KK 🚀" }
+            ]
+        },
+        {
+            "question": "Platon, ideaların bilgisine..... Yoluyla ulaşılacağını belirtmiştir.",
+            "answerOptions": [
+              { "answer": "Cahillik" },
+              { "answer": "Akıl", "isCorrect": true  },
+              { "answer": "Evren"},
+              { "answer": "Ahlak" }
+            ]
+        },
+        {
+            "question": "Sözlük anlamı 'her şeyin maddeden oluştuğunu ve bilinç de dahil olmak üzere bütün görüngülerin maddi etkileşimler sonucu oluştuğunu öne süren, a priori olan hiçbir metafiziksel kavramı kabul etmeyen felsefe kuramıdır. Bir diğer deyişle madde, var olan tek tözdür.'' olan kavram nedir?",
+            "answerOptions": [
+              { "answer": "Septisizm" },
+              { "answer": "Emprizm" },
+              { "answer": "Materyalizm", "isCorrect": true },
+              { "answer": "Paradigma" }
+            ]
+        },
+        {
+            "question": "'Evrenin akıp geçmekte oluşu dışında bir gerçeklik yoktur.' sözü hangi filiozofa aittir?",
+            "answerOptions": [
+              { "answer": "Platon" },
+              { "answer": "Whitehead", "isCorrect": true },
+              { "answer": "Aristotales" },
+              { "answer": "Farabi" }
+            ]
+        },
+        {
+            "question": "....... :ilgili tüm bireylerin mutluluk ve refah seviyelerini maksimize edecek olan eylemleri seçmemizi talep eden bir normatif etik teoriler ailesidir.",
+            "answerOptions": [
+              { "answer": "Ödev Ahlakı" },
+              { "answer": "Erdem Etiği" },
+              { "answer": "Ütilitarizm", "isCorrect": true },
+              { "answer": "Egoizm" }
+            ]
+        },
+        {
+            "question": "Hangi filazof varlığın madde olduğunu savunmaz?",
+            "answerOptions": [
+              { "answer": "Demokritos" },
+              { "answer": "Karl Marx" },
+              { "answer": "T. Hobbes" },
+              { "answer": "Whitehead", "isCorrect": true  }
+            ]
+        },
+        {
+            "question": "Südur nazariyesi hangi filiozofa aittir?",
+            "answerOptions": [
+              { "answer": "Gazali" },
+              { "answer": "Bergson" },
+              { "answer": "Farabi", "isCorrect": true },
+              { "answer": "Platon"}
+            ]
+        }
+    ],
+    "q2": [
+        {
+          "question": "MS 2. Yüzyıl- MS 15.Yüzyıl felsefesinde işlenen konuların dayandığı temel kavram hangisidir?",
+          "answerOptions": [
+            { "answer": "Akıl" },
+            { "answer": "Bilgi" },
+            { "answer": "İnanç", "isCorrect": true },
+            { "answer": "İztavuk 🐔" }
+          ]
+        },
+        {
+          "question": "Hristiyan felsefesinin iki temel dönemi hangi seçenekte verilmiştir?",
+          "answerOptions": [
+            { "answer": "Patristik Dönem - Modern Dönem" },
+            { "answer": "Patristik Dönem - Skolastik Dönem", "isCorrect": true },
+            { "answer": "Skolastik Dönem - Aydınlanma Dönemi" },
+            { "answer": "Skolastik Dönem - Modern Dönem" }
+          ]
+        },
+        {
+          "question": "Aşağıdakilerden hangisi Hristiyan felsefesinin özelliklerinden biri değildir?",
+          "answerOptions": [
+            { "answer": "Tanrı'nın varlığı kanıtlanmaya çalışılır" },
+            { "answer": "Antik Yunan felsefesinden etkilenmiştir" },
+            { "answer": "Kutsal metinlerin doğruluğu merkeze alınmıştır" },
+            { "answer": "Sembolik mantık çalışmalarının yoğunlaştığı dönemdir", "isCorrect": true }
+          ]
+        },
+        {
+          "question": "Aşağıdaki isimlerden hangisi MS 2.Yüzyıl-MS 15.Yüzyıl felsefesinde ön plana çıkmıştır?",
+          "answerOptions": [
+            { "answer": "Aquinalı Thomas", "isCorrect": true },
+            { "answer": "Platon" },
+            { "answer": "Lapsekili Tayfur" },
+            { "answer": "Mimar Sinan" }
+          ]
+        },
+        {
+            "question": "Hristiyan felsefesinin iki temel döneminden biri olan Skolastik Dönem'de Hristiyanlık üzerine hangisi yapılmıştır?",
+            "answerOptions": [
+              { "answer": "Yayma", "isCorrect": true },
+              { "answer": "İzole" },
+              { "answer": "Savunma" },
+              { "answer": "Protesto" }
+            ]
+          },
+          {
+            "question": "Kavram realizmine göre tümel kavramların varlığı nerededir?",
+            "answerOptions": [
+              { "answer": "Tanrı'nın zihninde", "isCorrect": true },
+              { "answer": "İnsanın zihninde" },
+              { "answer": "Duyularımızda" },
+              { "answer": "Görünlerin ardındaki özde" }
+            ]
+          },
+          {
+            "question": "Gazali'nin bilgi görüşü aşağıdaki anlayışlardan hangisine uygun düşmektedir?",
+            "answerOptions": [
+              { "answer": "Entüisyonizm", "isCorrect": true },
+              { "answer": "Positivizm" },
+              { "answer": "Septisizm" },
+              { "answer": "Empirizm" }
+            ]
+          },
+          {
+            "question": "'İnanayım diye biliyorum.' yargısıyla inanç ve aklın aralarında ahenk (uyum) olmasına rağmen birbirinden farklı iki alan olduğunu belirten düşünür aşağıdakilerden hangisidir?",
+            "answerOptions": [
+              { "answer": "Anselmus" },
+              { "answer": "Aquinalı Thomas", "isCorrect": true },
+              { "answer": "İmam Gazali" },
+              { "answer": "Tertullian" }
+            ]
+          },
+          {
+            "question": "Aşağıdakilerden hangisi MS 2-MS 15.yüzyıl felsefesine etki eden MÖ 6-MS 2.yüzyıl felsefelerinden biri değildir?",
+            "answerOptions": [
+              { "answer": "Stoa Felsefesi" },
+              { "answer": "Descartes", "isCorrect": true },
+              { "answer": "Epikurosçuluk" },
+              { "answer": "Yeni-Platonculuk" }
+            ]
+          },
+          {
+            "question": "Aşağıdaki seçeneklerin hangisinde Patristik Dönem'de 'Kilise Babaları' olarak da bilinen din adamları bir arada verilmiştir?",
+            "answerOptions": [
+              { "answer": "Tertullian,Boethius,Anselmus" },
+              { "answer": "Aquinali Thomas,Clemens,Erigena" },
+              { "answer": "Ockhamlı William,Augustinus,Clemens" },
+              { "answer": "Clemens, Tertullian, Augustinus", "isCorrect": true }
+            ]
+          },
+          {
+            "question": "İskenderiye okulunda geometri matematik, astronomi ve felsefe dersleri veren ve İskenderiye Kütüphanesi'nin yakılması esnasında yaşamını yitiren kadın düşünür aşağıdakilerden hangisidir?",
+            "answerOptions": [
+              { "answer": "Krotonlu Theano" },
+              { "answer": "Miletli Aspasia" },
+              { "answer": "Hypatia", "isCorrect": true },
+              { "answer": "Perictione" }
+            ]
+          },
+          {
+            "question": "Akla dayanan inancı savunan İslam felsefesi görüşü aşağıdakilerden hangisidir?",
+            "answerOptions": [
+              { "answer": "Dehriyye" },
+              { "answer": "Cebriye" },
+              { "answer": "Meşşaiye", "isCorrect": true },
+              { "answer": "Maturidiyye" }
+            ]
+          },
+          {
+            "question": "Alemin hadis (sonradan) olduğunu savunan filozof aşağıdakilerden hangisidir?",
+            "answerOptions": [
+              { "answer": "Gazali" },
+              { "answer": "El Kindi", "isCorrect": true },
+              { "answer": "İbn Sina" },
+              { "answer": "İbn Haldun" }
+            ]
+          }
+    ],
+
+    "q3": [
+        {
+          "question": "Rönesans ilk olarak nerede ortaya çıkmıştır?",
+          "answerOptions": [
+            { "answer": "Amerika" },
+            { "answer": "Almanya" },
+            { "answer": "İtalya", "isCorrect": true },
+            { "answer": "İngiltere" }
+          ]
+        },
+        {
+          "question": "Hristiyan felsefesi için kullanılan terim nedir?",
+          "answerOptions": [
+            { "answer": "Bilimsel" },
+            { "answer": "Skolastik", "isCorrect": true },
+            { "answer": "Hümanizm " },
+            { "answer": "Modern" }
+          ]
+        },
+        {
+          "question": "Rönesansla  başlayıp 17. yüzyılda pekişen düşünce sistemine ............. adı verilir.",
+          "answerOptions": [
+            { "answer": "Modern Düşünce", "isCorrect": true },
+            { "answer": "Hümanizm" },
+            { "answer": "İdol" },
+            { "answer": "Dualist " }
+          ]
+        },
+        {
+          "question": "Descartes felsefesinin kaynağı nedir?",
+          "answerOptions": [
+            { "answer": "Akıl", "isCorrect": true },
+            { "answer": "Tao" },
+            { "answer": "Ateş" },
+            { "answer": "Tin" }
+          ]
+        },
+        {
+            "question": "Hangisi hukuk felsefesinin temsilcisidir?",
+            "answerOptions": [
+              { "answer": "Aquinalı Thomas" },
+              { "answer": "Thomas Hobbes", "isCorrect": true },
+              { "answer": "Descartes" },
+              { "answer": "Platon" }
+            ]
+          },
+          {
+            "question": "Devletin yapay varlık olduğunu savunan ilk kişidir?",
+            "answerOptions": [
+              { "answer": "Platon" },
+              { "answer": "Thomas Hobbes", "isCorrect": true },
+              { "answer": "Newton" },
+              { "answer": "Galileo" }
+            ]
+          },
+          {
+            "question": "Uyku odalarının olduğu ve insanların duygularının olmadığı ütopya kime aittir?",
+            "answerOptions": [
+              { "answer": "G. Orwell" },
+              { "answer": "Campanella" },
+              { "answer": "Huxley", "isCorrect": true },
+              { "answer": "Farabi" }
+            ]
+          },
+          {
+            "question": "Toplumun bir aile olduğunu ve herkesin eşit olduğunu söyleyen ütopyanın adı nedir?",
+            "answerOptions": [
+              { "answer": "Güneş Ülkesi", "isCorrect": true },
+              { "answer": "Yeni Atlantis" },
+              { "answer": "Cesur Yeni Dünya" },
+              { "answer": "El Medinetü' l Fazıla" }
+            ]
+          },
+          {
+            "question": "İkili evren anlayışına karşı çıkan kimdir?",
+            "answerOptions": [
+              { "answer": "Kopernik", "isCorrect": true },
+              { "answer": "Bacon" },
+              { "answer": "Hobbes" },
+              { "answer": "Hegel" }
+            ]
+          },
+          {
+            "question": "Aristoteles' in tümdengelim yöntemine karşı tümevarım yöntemini öne süren kimdir?",
+            "answerOptions": [
+              { "answer": "Platon" },
+              { "answer": "Farabi" },
+              { "answer": "Bacon", "isCorrect": true },
+              { "answer": "Thomas" }
+            ]
+          },
+          {
+            "question": "Hobbes'a göre doğa durumunda birbirinin kurdu olan insanlar bir sözleşmeyle hak ve özgürlüklerini kendilerini yönetmesi için, kendi iradeleriyle oluşturdukları bir güce devrederler. Bu şekilde kargaşa ve savaşa son verip güvenlik içinde yaşarlar. Buna göre Hobbes devletin ortaya çıkmasını aşagıdakilerden hangisine bağlamıştır?",
+            "answerOptions": [
+              { "answer": "Cesaret" },
+              { "answer": "Özgürlük" },
+              { "answer": "Dürüstlük" },
+              { "answer": "Uzlaşmak", "isCorrect": true }
+            ]
+          },
+          {
+            "question": "Aquinalı Thomas' on inancın tanrıyı, aklınsa Tanrı ' nın yarattıklarını bilmekle ilgili olduğu düşüncesi 15. yüzyıl - 17. yüzyıl felsefesine kaynaklık etmiştir. Buna göre 15. yüzyıl - 17. yüzyıl felsefesinde aşağıdakilerden hangisinin ön planda olduğu söylenir?",
+            "answerOptions": [
+              { "answer": "Ruh" },
+              { "answer": "Akıl", "isCorrect": true },
+              { "answer": "Tanrı" },
+              { "answer": "İnanç" }
+            ]
+          }
+    ],
+
+    "q4": [
+        {
+          "question": "18.yy-19.yy felsefesinde öne çıkan felsefi problemlerden biri değildir?",
+          "answerOptions": [
+            { "answer": "Bilginin kaynağı" },
+            { "answer": "Varlığın oluşu" },
+            { "answer": "Aklın zararı", "isCorrect": true },
+            { "answer": "Ahlakın ilkesi" }
+          ]
+        },
+        {
+          "question": "'Düşünüyorum o halde varım.'sözü kime aittir?",
+          "answerOptions": [
+            { "answer": "Mustafa Kemal Atatürk" },
+            { "answer": "Pablo Picasso" },
+            { "answer": "Descartes " , "isCorrect": true},
+            { "answer": "Levent Gülderen 🤔" }
+          ]
+        },
+        {
+          "question": "Locke'un öncülerinden olduğu doğru bilginin sadece deneyden geldiğini, aklın sadece bunları bir takım yetilerle biçimlendirdiğini savunan akımdır. Bu akım aşağıdakilerden hangisidir?",
+          "answerOptions": [
+            { "answer": "Kemalizm" },
+            { "answer": "Empirizm", "isCorrect": true },
+            { "answer": "Taoizm"},
+            { "answer": "İslamofobi " }
+          ]
+        },
+        {
+          "question": "Hangisi 18.yy-19.yy genel özelliklerinden biri değildir?",
+          "answerOptions": [
+            { "answer": "Felsefede yeni ekoller çıkmıştır. " },
+            { "answer": "Aydın ve yazarlar sınıfı ortaya çıkmıştır. " },
+            { "answer": "Düşünce özgürlüğü desteklenmiştir." },
+            { "answer": "Otoritelere tam bağlılık vardır.", "isCorrect": true }
+          ]
+        },
+        {
+            "question": "J. Locke, 'İnsan zihni doğuştan boş bir levha gibidir.' sözünü hangi felsefe akımının görüşlerini eleştirmek için söylemiştir?",
+            "answerOptions": [
+              { "answer": "Sezgicilik" },
+              { "answer": "Kritisizm" },
+              { "answer": "Empirizm" },
+              { "answer": "Rasyonalizm", "isCorrect": true }
+            ]
+          },
+          {
+            "question": "I. Bilginin kaynağı - II. Birey - devlet ilişkisi - III. Varlığın oluşu - IV. Ana maddenin yapısı. Verilenlerden hangileri 18 - 19. yüzyıl felsefesinde öne çıkan problemler arasında yer alır?",
+            "answerOptions": [
+              { "answer": "I ve II" },
+              { "answer": "II ve III " },
+              { "answer": "I, II, III" , "isCorrect": true},
+              { "answer": "II, III ve IV" }
+            ]
+          },
+          {
+            "question": "Öznel idealizmde olduğu gibi gerçekten var olanın zihinden bağımsız olmadığını, tam tersine zihne tabi olduğunu öne sürer. Bununla birlikte bu zihin, sadece bireysel zihinleri değil, bir bütün olarak tüm doğayı ve tarihi yaratan nesnel bir tindir. Buna göre, Hegel var olanların temelini aşağıdaki kavramlardan hangisi ile ifade eder?",
+            "answerOptions": [
+              { "answer": "Geist", "isCorrect": true },
+              { "answer": "Madde" },
+              { "answer": "Diyalektik" },
+              { "answer": "Atom" }
+            ]
+          },
+          {
+            "question": "İnsan zihninde kategorik buyruk olarak bir takım ahlak ilkeleri mevcuttur. İyi davranışın temelinde yatan motivasyon, bu buyruklardır. Bu açıklamada ifade edilen anlayış aşağıdakilerden hangisidir?",
+            "answerOptions": [
+              { "answer": "Kant’ın ödev ahlakı" },
+              { "answer": "Bentham’ın fayda ahlakı", "isCorrect": true },
+              { "answer": "Bergson’un sezgi ahlakı" },
+              { "answer": "Farabi’nin erdem etiği" }
+            ]
+          },
+          {
+            "question": "“Akıl hiçbir şeyi algılayamaz, duyular hiçbir şeyi düşünemez. Bilgi ancak bunların birleşik faaliyetinden doğar.” diyen Kant, felsefe tarihi içerisindeki hangi iki görüşü uzlaştırmıştır?",
+            "answerOptions": [
+              { "answer": "Fenomenoloji - Analitik felsefe", "isCorrect": true },
+              { "answer": "Rasyonalizm - Empirizm" },
+              { "answer": "Pozitivizm - Entüisyonizm" },
+              { "answer": "Kritizim - Pragmatizm" }
+            ]
+          },
+          {
+            "question": "Hegel'in 'Gerçek olan akılsal, akılsal olan gerçektir.' sözüne aşağıdaki yargılardan hangisi anlamca daha uzaktır?",
+            "answerOptions": [
+              { "answer": "Gerçek, aklı oluşturur", "isCorrect": true },
+              { "answer": "Gerçek, akılla anlaşılır" },
+              { "answer": "Gerçek, aklın ürünüdür" },
+              { "answer": "Akıl dışı olanlar gerçek de olamaz" }
+            ]
+          },
+          {
+            "question": "Locke,mutlak monarşiye tepki olarak ...... devlet modelini ortaya atmıştır. Boşluğa gelmesi gereken kelime nedir?",
+            "answerOptions": [
+              { "answer": "Hümanizm" },
+              { "answer": "Monarşizm" },
+              { "answer": "Liberalizm", "isCorrect": true },
+              { "answer": "Sezgicilik" }
+            ]
+          }
+    ],
+
+    "q5": [
+        {
+          "question": "Kuhn'a göre bilim süreklilik göstermez,bilimsel süreç zaman zaman gerceklesen devrimlerle kesintiye uğrar.Bu devrimleri bilim,temel kabullere ters düştüğü için başlangıçta kabul etmek istemez ve bastirmaya çalışır. Ancak devrimleri ve radikal degisimlerin kabul etmek zorunda kalir. Hangisi ile ifade edilebilir?",
+          "answerOptions": [
+            { "answer": "Diyalektik" },
+            { "answer": "Paradigma", "isCorrect": true  },
+            { "answer": "Yanlislanabilirlik"},
+            { "answer": "Endüksiyon" }
+          ]
+        },
+        {
+          "question": "Sartre'a göre 'insanda varoluş özden once gelir. İnsan özgür olmaya mahkumdur.Nasil yaşayacağına ozgur iradesiyle karar verir.' Buna göre hangilerine ulaşılamaz",
+          "answerOptions": [
+            { "answer": "Evrensel yasalara uyduğu sürece vardır", "isCorrect": true },
+            { "answer": "Yaptığı her eylemin belirleyicidir" },
+            { "answer": "Önce var olur,sonra özünü gerçekleştirir " },
+            { "answer": "Nasıl yaşayacağına Kendi karar verir" }
+          ]
+        },
+        {
+          "question": "Hilmi Ziya Ülken'in aşağıdakilerden hangisiyle eşleştirilmesi doğru olur?",
+          "answerOptions": [
+            { "answer": "Bilim tarihi" },
+            { "answer": "Bilim felsefesi" },
+            { "answer": "Ahlak felsefesi", "isCorrect": true},
+            { "answer": "Varlık felsefesi " }
+          ]
+        },
+        {
+          "question": "Nusret Hızır 'in aşağıdakilerden hangisiyle eşleştirilmesi doğru olur?",
+          "answerOptions": [
+            { "answer": "Bilim felsefesi", "isCorrect": true },
+            { "answer": "Felsefe Tarihi" },
+            { "answer": "Siyaset felsefesi" },
+            { "answer": "Değerler felsefesi" }
+          ]
+        },
+        {
+            "question": "Sihirli kuş,kırk ayakli köpeği görünce koşarak uzaklaştı' şeklindeki bir önerme mantıkcı pozitivistlere göre bilime konu olamaz. Hangisi mantıkcı pozitivisizm ile ilgilidir?",
+            "answerOptions": [
+              { "answer": "Bilginin kaynağı duyudur" },
+              { "answer": "Bilim evrenseldir" },
+              { "answer": "Bilim anlamlı önermelerden oluşur", "isCorrect": true },
+              { "answer": "Felsefe mitolojiyi konu edinmeli" }
+            ]
+          },
+          {
+            "question": "Aşağıdakilerden hangisidir ülkemizin felsefecilerinden değildir?",
+            "answerOptions": [
+              { "answer": "Hilmi Ziya Ülken" },
+              { "answer": "Takiyettin Mengüçoğlu" },
+              { "answer": "Macit Gökberk" },
+              { "answer": "Nihal Atsız" , "isCorrect": true}
+            ]
+          },
+          {
+            "question": "Fenomenolojik yöntemin amaci nedir?",
+            "answerOptions": [
+              { "answer": "Öznel doğruya ulaşmak" },
+              { "answer": "Duyu bilgisini hakikati kavramada araç edinmek" },
+              { "answer": "Varlığı aniden ortaya çıkan içsel bir kavrayışla bilmek" },
+              { "answer": "Varlığın özü bilgisine ulaşmak", "isCorrect": true }
+            ]
+          },
+          {
+            "question": "Husserl gerçekliği değil,gerçeklikten edinilen özleri aydınlatmaya çalışir. Fakat bu özler onceden hazır degildir,onlarin kazanilmasi gerekir. Verilen görüş hangisidir?",
+            "answerOptions": [
+              { "answer": "Hermeneutik" },
+              { "answer": "Fenomenoloji", "isCorrect": true },
+              { "answer": "Yeni ontoloji" },
+              { "answer": "Mantıkcı pozitivizm" }
+            ]
+          },
+          {
+            "question": "Değerler felsefesi alanında düşünceleriyle tanınan, özgürlük problemini ele alan,Goethe madalyası alan kisi kimdir?",
+            "answerOptions": [
+              { "answer": "Uluğ Nutku" },
+              { "answer": "Aydın Sayılı" },
+              { "answer": "İoanna Kuçuradı", "isCorrect": true },
+              { "answer": "Mübahat Türker Kuyel" }
+            ]
+          },
+          {
+            "question": "20.yy felsefesi ile ilgili hangisine ulaşılamaz?",
+            "answerOptions": [
+              { "answer": "Felsefede uzmanlaşmaların olduğuna" },
+              { "answer": "Dogmatik düşüncenin arttığı" , "isCorrect": true},
+              { "answer": "Felsede yeni akımlar oluştu" },
+              { "answer": "Felsefenin yeni yöntemler kazandığı" }
+            ]
+          },
+          {
+            "question": "Hangisi 20.yy felsefsinin temel problemlerinden birisi değildir ?",
+            "answerOptions": [
+              { "answer": "Yeni ontoloji" },
+              { "answer": "Bilginin kaynağı", "isCorrect": true },
+              { "answer": "Hermeneutik" },
+              { "answer": "Fenomenolji" }
+            ]
+          }
+    ]
+    }

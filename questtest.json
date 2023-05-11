@@ -1,0 +1,241 @@
+
+{
+    "q1": [
+        {
+          "question": "Felsefe sistemli olarak nerede ortaya çıkmıştır?",
+          "answerOptions": [
+            { "answer": "Antik Yunan", "isCorrect": true  },
+            { "answer": "Mezopotamya" },
+            { "answer": "Çin"},
+            { "answer": "Mısır" }
+          ]
+        },
+        {
+          "question": "Anaksimandrosa göre arkhe nedir?",
+          "answerOptions": [
+            { "answer": "Hava" },
+            { "answer": "Toprak, su, hava, ateş" },
+            { "answer": "Su", "isCorrect": true },
+            { "answer": "Aperion" }
+          ]
+        },
+        {
+          "question": "'Varlık vardır yokluk yoktur' ilkesi hangi filiozofa aittir?",
+          "answerOptions": [
+            { "answer": "Heraklitos" },
+            { "answer": "Parmenides", "isCorrect": true },
+            { "answer": "Hegel" },
+            { "answer": "Protogaras" }
+          ]
+        },
+        {
+          "question": "İslam filozofların tarafından ilk öğretmen olarak isimlendirilen filiozof kimdir?",
+          "answerOptions": [
+            { "answer": "Aristotales", "isCorrect": true },
+            { "answer": "Gazali" },
+            { "answer": "Farabi" },
+            { "answer": "Tymon" }
+          ]
+        },
+        {
+            "question": "Aristotalese göre mutluluk nedir?",
+            "answerOptions": [
+              { "answer": "Ruhun amacıdır", "isCorrect": true },
+              { "answer": "İyi ideasına ulaşmaktır" },
+              { "answer": "Şüphesiz bilgiye ulaşmaktır" },
+              { "answer": "Mutluluk ne?" }
+            ]
+        },
+        {
+            "question": "'Kimse bilerek kötülük yapmaz, insan özü itibari ile iyidir' düşüncesi hangi filiozofa aittir?",
+            "answerOptions": [
+              { "answer": "Spinoza" },
+              { "answer": "Platon" },
+              { "answer": "Descartes"},
+              { "answer": "Sokrates", "isCorrect": true }
+            ]
+        },
+        {
+            "question": "'insan, doğası gereği siyasi bir hayvandır' sözü hangi filiozofa aittir?",
+            "answerOptions": [
+              { "answer": "Aristotales", "isCorrect": true  },
+              { "answer": "Platon" },
+              { "answer": "John Locke"},
+              { "answer": "KK 🚀" }
+            ]
+        },
+        {
+            "question": "Platon, ideaların bilgisine..... Yoluyla ulaşılacağını belirtmiştir.",
+            "answerOptions": [
+              { "answer": "Cahillik" },
+              { "answer": "Akıl", "isCorrect": true  },
+              { "answer": "Evren"},
+              { "answer": "Ahlak" }
+            ]
+        },
+        {
+            "question": "Sözlük anlamı 'her şeyin maddeden oluştuğunu ve bilinç de dahil olmak üzere bütün görüngülerin maddi etkileşimler sonucu oluştuğunu öne süren, a priori olan hiçbir metafiziksel kavramı kabul etmeyen felsefe kuramıdır. Bir diğer deyişle madde, var olan tek tözdür.'' olan kavram nedir?",
+            "answerOptions": [
+              { "answer": "Septisizm" },
+              { "answer": "Emprizm" },
+              { "answer": "Materyalizm", "isCorrect": true },
+              { "answer": "Paradigma" }
+            ]
+        },
+        {
+            "question": "'Evrenin akıp geçmekte oluşu dışında bir gerçeklik yoktur.' sözü hangi filiozofa aittir?",
+            "answerOptions": [
+              { "answer": "Platon" },
+              { "answer": "Whitehead", "isCorrect": true },
+              { "answer": "Aristotales" },
+              { "answer": "Farabi" }
+            ]
+        },
+        {
+            "question": "....... :ilgili tüm bireylerin mutluluk ve refah seviyelerini maksimize edecek olan eylemleri seçmemizi talep eden bir normatif etik teoriler ailesidir.",
+            "answerOptions": [
+              { "answer": "Ödev Ahlakı" },
+              { "answer": "Erdem Etiği" },
+              { "answer": "Ütilitarizm", "isCorrect": true },
+              { "answer": "Egoizm" }
+            ]
+        },
+        {
+            "question": "Hangi filazof varlığın madde olduğunu savunmaz?",
+            "answerOptions": [
+              { "answer": "Demokritos" },
+              { "answer": "Karl Marx" },
+              { "answer": "T. Hobbes" },
+              { "answer": "Whitehead", "isCorrect": true  }
+            ]
+        },
+        {
+            "question": "Südur nazariyesi hangi filiozofa aittir?",
+            "answerOptions": [
+              { "answer": "Gazali" },
+              { "answer": "Bergson" },
+              { "answer": "Farabi", "isCorrect": true },
+              { "answer": "Platon"}
+            ]
+        }
+    ],
+    "q2": [
+        {
+          "question": "MS 2. Yüzyıl- MS 15.Yüzyıl felsefesinde işlenen konuların dayandığı temel kavram hangisidir?",
+          "answerOptions": [
+            { "answer": "Akıl" },
+            { "answer": "Bilgi" },
+            { "answer": "İnanç", "isCorrect": true },
+            { "answer": "İztavuk 🐔" }
+          ]
+        },
+        {
+          "question": "Hristiyan felsefesinin iki temel dönemi hangi seçenekte verilmiştir?",
+          "answerOptions": [
+            { "answer": "Patristik Dönem - Modern Dönem" },
+            { "answer": "Patristik Dönem - Skolastik Dönem" },
+            { "answer": "Skolastik Dönem - Aydınlanma Dönemi", "isCorrect": true },
+            { "answer": "Skolastik Dönem - Modern Dönem" }
+          ]
+        },
+        {
+          "question": "Aşağıdakilerden hangisi Hristiyan felsefesinin özelliklerinden biri değildir?",
+          "answerOptions": [
+            { "answer": "Tanrı'nın varlığı kanıtlanmaya çalışılır" },
+            { "answer": "Antik Yunan felsefesinden etkilenmiştir", "isCorrect": true },
+            { "answer": "Kutsal metinlerin doğruluğu merkeze alınmıştır" },
+            { "answer": "Sembolik mantık çalışmalarının yoğunlaştığı dönemdir" }
+          ]
+        },
+        {
+          "question": "Aşağıdaki isimlerden hangisi MS 2.Yüzyıl-MS 15.Yüzyıl felsefesinde ön plana çıkmıştır?",
+          "answerOptions": [
+            { "answer": "Aquinalı Thomas" },
+            { "answer": "Platon" },
+            { "answer": "Lapsekili Tayfur", "isCorrect": true },
+            { "answer": "Mimar Sinan" }
+          ]
+        },
+        {
+            "question": "Hristiyan felsefesinin iki temel döneminden biri olan Skolastik Dönem'de Hristiyanlık üzerine hangisi yapılmıştır?",
+            "answerOptions": [
+              { "answer": "Yayma" },
+              { "answer": "İzole" },
+              { "answer": "Savunma", "isCorrect": true },
+              { "answer": "Protesto" }
+            ]
+          },
+          {
+            "question": "Kavram realizmine göre tümel kavramların varlığı nerededir?",
+            "answerOptions": [
+              { "answer": "Tanrı'nın zihninde" },
+              { "answer": "İnsanın zihninde" },
+              { "answer": "Duyularımızda", "isCorrect": true },
+              { "answer": "Görünlerin ardındaki özde" }
+            ]
+          },
+          {
+            "question": "Gazali'nin bilgi görüşü aşağıdaki anlayışlardan hangisine uygun düşmektedir?",
+            "answerOptions": [
+              { "answer": "Entüisyonizm" },
+              { "answer": "Positivizm" },
+              { "answer": "Septisizm", "isCorrect": true },
+              { "answer": "Empirizm" }
+            ]
+          },
+          {
+            "question": "'İnanayım diye biliyorum.' yargısıyla inanç ve aklın aralarında ahenk (uyum) olmasına rağmen birbirinden farklı iki alan olduğunu belirten düşünür aşağıdakilerden hangisidir?",
+            "answerOptions": [
+              { "answer": "Anselmus" },
+              { "answer": "Aquinalı Thomas" },
+              { "answer": "İmam Gazali", "isCorrect": true },
+              { "answer": "Tertullian" }
+            ]
+          },
+          {
+            "question": "Aşağıdakilerden hangisi MS 2-MS 15.yüzyıl felsefesine etki eden MÖ 6-MS 2.yüzyıl felsefelerinden biri değildir?",
+            "answerOptions": [
+              { "answer": "Stoa Felsefesi" },
+              { "answer": "Descartes" },
+              { "answer": "Epikurosçuluk", "isCorrect": true },
+              { "answer": "Yeni-Platonculuk" }
+            ]
+          },
+          {
+            "question": "Aşağıdaki seçeneklerin hangisinde Patristik Dönem'de 'Kilise Babaları' olarak da bilinen din adamları bir arada verilmiştir?",
+            "answerOptions": [
+              { "answer": "Tertullian,Boethius,Anselmus" },
+              { "answer": "Aquinali Thomas,Clemens,Erigena" },
+              { "answer": "Ockhamlı William,Augustinus,Clemens", "isCorrect": true },
+              { "answer": "Clemens, Tertullian, Augustinus" }
+            ]
+          },
+          {
+            "question": "İskenderiye okulunda geometri matematik, astronomi ve felsefe dersleri veren ve İskenderiye Kütüphanesi'nin yakılması esnasında yaşamını yitiren kadın düşünür aşağıdakilerden hangisidir?",
+            "answerOptions": [
+              { "answer": "Krotonlu Theano" },
+              { "answer": "Miletli Aspasia" },
+              { "answer": "Hypatia", "isCorrect": true },
+              { "answer": "Perictione" }
+            ]
+          },
+          {
+            "question": "Akla dayanan inancı savunan İslam felsefesi görüşü aşağıdakilerden hangisidir?",
+            "answerOptions": [
+              { "answer": "Dehriyye" },
+              { "answer": "Cebriye" },
+              { "answer": "Meşşaiye", "isCorrect": true },
+              { "answer": "Maturidiyye" }
+            ]
+          },
+          {
+            "question": "Alemin hadis (sonradan) olduğunu savunan filozof aşağıdakilerden hangisidir?",
+            "answerOptions": [
+              { "answer": "Gazali" },
+              { "answer": "El Kindi" },
+              { "answer": "İbn Sina", "isCorrect": true },
+              { "answer": "İbn Haldun" }
+            ]
+          }
+    ]
+    }
